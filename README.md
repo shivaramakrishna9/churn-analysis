@@ -1,4 +1,4 @@
-# churn-analysis
+# Churn-analysis
 
 An end-to-end churn analysis project using SQL, Power BI, and Python to predict customer churn for a telecom company.
 
