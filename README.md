@@ -1,5 +1,3 @@
-Of course! Here is the README file modified to reflect the use of **MySQL** and an **ODBC connection**.
-
 # End-to-End Telecom Churn Analysis 📊
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
